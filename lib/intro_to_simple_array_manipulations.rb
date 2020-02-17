@@ -25,3 +25,7 @@ def using_unshift(array, string)
 array.unshift("Staten Island")
 
 end
+
+def using_shift(array)
+  array.shift
+end
