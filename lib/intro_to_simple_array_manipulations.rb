@@ -22,5 +22,6 @@ array.pop(2)
 end
 
 def using_unshift(array, string)
-  array.unshift
+string = "Staten Island"
+string.unshift
 end
