@@ -12,13 +12,13 @@ end
 def using_pop(continents)
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 deleted_string = continents.pop
-continents
+
 
 end
 
 def pop_with_args(dog_breeds)
 dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 small_dogs = dog_breeds.pop(2)
-dog_breeds
+
 
 end
