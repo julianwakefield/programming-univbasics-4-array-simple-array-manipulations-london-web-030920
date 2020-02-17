@@ -11,9 +11,8 @@ end
 
 def using_pop(array, continents)
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-deleted_string = array.pop
-p array
-p deleted_string
+deleted_string = continents.pop
+
 end
 
 def pop_with_args(dog_breeds, small_dogs)
