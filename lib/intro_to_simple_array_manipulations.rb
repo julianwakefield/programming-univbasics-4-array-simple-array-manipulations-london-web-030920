@@ -15,3 +15,9 @@ deleted_string = continents.pop
 p continents
 p deleted_string
 end
+
+
+def pop_with_args
+
+
+end
