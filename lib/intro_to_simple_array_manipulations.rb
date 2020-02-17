@@ -59,6 +59,6 @@ end
 
 def using_delete_at(array, integer)
 
-integer.delete(array, 2)
+
 
 end
