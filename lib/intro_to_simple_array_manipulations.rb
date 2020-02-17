@@ -40,5 +40,5 @@ end
 
 def using_insert(array, element)
 element = "Python"
-  array.insert[4]("Python")
+  array.insert(element[3)
 end
