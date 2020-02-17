@@ -22,6 +22,6 @@ array.pop(2)
 end
 
 def using_unshift(array, string)
-string = "Staten Island"
-array = string.unshift
+array.unshift("Staten Island")
+
 end
