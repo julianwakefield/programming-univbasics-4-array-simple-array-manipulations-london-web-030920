@@ -17,7 +17,7 @@ p deleted_string
 end
 
 
-def pop_with_args
-
+def pop_with_args(dog_breeds, small_dogs)
+dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
 
 end
