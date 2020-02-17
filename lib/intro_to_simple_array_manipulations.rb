@@ -39,6 +39,6 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, array2)
-
+array2 = "Python"
   array.insert(3, "Python")
 end
