@@ -42,3 +42,8 @@ def using_insert(array, array2)
 
   array.insert(4, "Python")
 end
+
+def using_uniq(array)
+  array.uniq
+
+end
