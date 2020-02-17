@@ -23,5 +23,5 @@ end
 
 def using_unshift(array, string)
 string = "Staten Island"
-string.unshift
+array = string.unshift
 end
